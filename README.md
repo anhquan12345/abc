@@ -2,7 +2,7 @@
 Đồ án môn Công nghệ phần mềm (Nâng cao) - Website bán đồ điện tử
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
-##Chức năng **Cơ bản**:
+## Chức năng **Cơ bản**:
 
 > Trang chủ hiển thị đẹp, các sản phẩm được chia theo nhiều tiêu chí: nổi bật, mới, khuyến mãi, giá rẻ, ..
 > Tìm kiếm/lọc/sắp xếp sản phẩm theo hãng, giá, tên, khuyến mãi, đánh giá, số sao, ...
